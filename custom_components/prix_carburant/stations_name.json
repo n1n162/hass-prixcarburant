@@ -14987,6 +14987,10 @@
     "name": "STATION AVIA",
     "brand": "Avia"
   },
+    "38090005": {
+    "name": "Station service Netto ",
+    "brand": "Netto"
+  },
   "38100003": {
     "name": "BP GRENOBLE BELLEDONNE",
     "brand": "BP"
@@ -15203,6 +15207,10 @@
     "name": "STATION ELAN / AGENT CITROEN",
     "brand": "Elan"
   },
+    "38260009": {
+    "name": "Station service Champier",
+    "brand": "Indépendant"
+  },
   "38270002": {
     "name": "CASINO SUPERMARCHE",
     "brand": "Casino"
@@ -15230,6 +15238,10 @@
   "38290005": {
     "name": "Station U",
     "brand": "Système U"
+  },
+    "38290006": {
+    "name": "Avia Satolas-et-bonce",
+    "brand": "Avia"
   },
   "38300001": {
     "name": "Carrefour Market",
@@ -15266,6 +15278,10 @@
   "38300021": {
     "name": "Intermarché LE RIVET",
     "brand": "Intermarché"
+  },
+    "38300022": {
+    "name": "FuelForPlanet Bourgoin-jallieu",
+    "brand": "FuelForPlanet"
   },
   "38307001": {
     "name": "GIRARD SAS",
